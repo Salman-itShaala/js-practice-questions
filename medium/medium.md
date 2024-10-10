@@ -2,7 +2,6 @@
 
 2. Write a function that takes three numbers and returns the largest of them.
 
-
 3. Write a function to check if a given number is a palindrome (a word that reads the same backward).
 
 4. Write a function that returns the factorial of a given number.
@@ -20,3 +19,11 @@
 10. Write a function to calculate the sum of digits of a given number.
 
 11. Write a function that capitalizes the first letter of every word in a given sentence.
+
+12. Write a function to return number of digits in given number
+
+13. Write a function to check whether given number is armstrong or not (An Armstrong number is one where the sum of its digits each
+    raised to the power of the number of
+    digits equals the number itself (e.g., 153 = 1³ + 5³ + 3³))
+
+14.
